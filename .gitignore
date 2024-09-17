@@ -1,2 +1,26 @@
+# DVC cache and temp files
+.dvc/cache/
+.dvc/tmp/
+
+# Data files and directories
+data/
+
+
+# Model files
+models/
+*.h5
+*.pkl
+
+# Environment files
+.env/
 .venv/
-.dvc/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
