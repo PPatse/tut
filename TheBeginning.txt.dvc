@@ -1,0 +1,14 @@
+outs:
+- md5: d9231ee1ca4b05a32ea2e3d41f899b69.dir
+  size: 1213
+  hash: md5
+  path: TheBeginning.txt
+  nfiles: 1
+md5: 4269b7d0253dc6764e386c28e61a6319
+frozen: true
+deps:
+- md5: 2b52a1cf4dad5b0b010a5b0baa89100a.dir
+  size: 1213
+  nfiles: 1
+  hash: md5
+  path: azure://wpa-dvc/TheBeginning.txt
